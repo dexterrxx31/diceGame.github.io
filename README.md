@@ -1,1 +1,1 @@
-# web_development
+# Dice Game
